@@ -26,4 +26,4 @@ python demo.py  --model_type='bert' --model='indobenchmark/indobert-base-p1'
 ```
 
 ## Experiment Results
-! (accessory/Experiment_results.png)
+![Results](accessory/Experiment_results.PNG)
